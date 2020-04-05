@@ -1,0 +1,18 @@
+{
+    "Home":"Accueil",
+    "Dashboard":"Tableau de bord",
+    "Sign Out":"Déconnexion",
+    "COUNTRY":"PAYS",
+    "CLINIC":"CLINIQUE",
+    "PERIOD":"PÉRIODE",
+    "Welcome To DaVita Inc":"Bienvenue chez DaVita Inc",
+    "Graph Reading":"Lecture Graphique",
+    "Lower Extreme":"Extrême Inférieur",
+    "Lower Quartile":"Quartile Inférieure",
+    "Median":"Médian",
+    "Upper Quartile":"Quartile Supérieur",
+    "Upper Extreme":"Extrême Supérieur",
+    "Pursuant to DaVita policy and federal and state laws:":"Conformément à la politique DaVita et aux lois fédérales et étatiques:",
+    "You are only permitted to view information associated with patients in your facility.":"Vous êtes uniquement autorisé à consulter les informations associées aux patients de votre établissement.",
+    "Please ensure that you filter by facility.":"Veuillez vous assurer de filtrer par établissement."
+}
