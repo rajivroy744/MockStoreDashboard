@@ -3,14 +3,15 @@ import { CommonModule } from '@angular/common';
 import { HeaderComponent } from '../layout/header/header.component';
 import { FooterComponent } from '../layout/footer/footer.component';
 import { SidepanelComponent } from '../layout/sidepanel/sidepanel.component';
+import { CardModule } from 'primeng/card';
 
 
 
 @NgModule({
   declarations: [HeaderComponent, FooterComponent, SidepanelComponent],
-  imports: [
+  imports: [CardModule,
     CommonModule
   ],
-  exports: [HeaderComponent, FooterComponent, SidepanelComponent]
+  exports: [CardModule, HeaderComponent, FooterComponent, SidepanelComponent]
 })
 export class SharedModule { }
